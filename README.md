@@ -1,13 +1,5 @@
 # PT-Win-Scripts
-
- _    _ _             _____           _       _       
-| |  | (_)           /  ___|         (_)     | |      
-| |  | |_ _ __ ______\ `--.  ___ _ __ _ _ __ | |_ ___ 
-| |/\| | | '_ \______|`--. \/ __| '__| | '_ \| __/ __|
-\  /\  / | | | |     /\__/ / (__| |  | | |_) | |_\__ \
- \/  \/|_|_| |_|     \____/ \___|_|  |_| .__/ \__|___/
-                                       | |            
-                                       |_|            
+![image](https://github.com/AS-AbdulSamad/PT-Win-Scripts/assets/116205223/654bd9cb-e884-4ad6-82ae-a868bcdf5db6)
 
 Welcome to the Penetration Testing Windows Scripts repository! This collection of scripts is designed to assist security professionals, ethical hackers, and enthusiasts in performing comprehensive penetration tests on Windows systems.
 
