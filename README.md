@@ -11,3 +11,4 @@ Disclaimer: The authors of this repository do not take any responsibility for th
 Here are the List of Scripts along with their short description.
 
 1) [AutoLoadRunner.bat](https://github.com/AS-AbdulSamad/PT-Win-Scripts/blob/main/AutoLoadRunner.bat)  = Automatically Download the softwares/scripts/executeables/files from the given location and run them without user interaction.
+2) [InfiniLoad.bat](https://github.com/AS-AbdulSamad/PT-Win-Scripts/blob/main/InfiniLoad.bat) = This script is designed to create an infinite loop, it can potentially cause system memory corruption and lead to severe CPU exhaustion, impacting system performance.
